@@ -1,6 +1,9 @@
 #bingus{
     width:300px;
     height:auto;
+    display: block;
+    margin: 40px auto;
+    border: 10px solid purple;
 }
 
 *{
@@ -54,3 +57,24 @@ p{
     font-family:"Times New Roman";
     font-weight:800;
 }
+
+.home{
+    width: 800px;
+    margin: 0 auto;
+    border: 10px solid white;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+#title{
+    text-align: center;
+    width: 350px;
+    margin: 0px auto;
+}
+
+.r-link{
+    display: inline-block;
+    background-color: purple;
+    padding: 10px 20px;
+}
+
